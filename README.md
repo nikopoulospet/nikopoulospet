@@ -1,3 +1,3 @@
 <p align="center">
-  <img src='akira.gif' width="600"/>
+  <img src='akira.gif' width="1000" height="400"/>
 </p>
