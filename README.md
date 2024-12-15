@@ -1,6 +1,6 @@
 ## Links
 
-* (legacy) blog (currently just links here): peter.nikopoulos.net
+* (legacy) blog (currently just links here): https://peter.nikopoulos.net
 * email: peter@nikopoulos.net
 * building at: https://infinitesky.ai/
 * (new) blog: [under construction as of this week](https://blog.nikopoulos.xyz)
