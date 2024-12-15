@@ -13,3 +13,9 @@
 * [jax](https://mitpress.mit.edu/9780262019347/functional-differential-geometry/)
 * [diffrax](https://docs.kidger.site/diffrax/)
 * [flax](https://github.com/google/flax)
+
+## Repos
+
+No cool public repos yet
+
+* :(
