@@ -25,5 +25,6 @@ No cool public repos yet
 <summary><h2> Webpages that I have read and liked</h2> </summary> 
 
 * https://matt.might.net/
+* https://simonwillison.net/
 
 </details>
