@@ -22,7 +22,7 @@ No cool public repos yet
 
 
 <details>
-<summary><h2> links for blogs that I have read and liked</h2> </summary> 
+<summary><h2> Webpages that I have read and liked</h2> </summary> 
 
 * https://matt.might.net/
 
